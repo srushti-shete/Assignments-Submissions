@@ -1,0 +1,39 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.section_1
+{
+    width: 100%;
+    background-color: gray;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.class_1
+{
+    height: 100px;
+    width: 15%;
+    background-color: red;
+}
+
+.section_2
+{
+    width: 100%;
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.class_2
+{
+    height: 100px;
+    width: 20%;
+    background-color: gray;
+    display: inline-block;
+    margin-left: 4%;
+}
